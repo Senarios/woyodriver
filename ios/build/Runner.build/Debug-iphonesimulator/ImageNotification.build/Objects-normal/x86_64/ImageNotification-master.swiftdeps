@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "b4305a1af422878e84dcb8d3bb2de22a"
+build_time: [1623193926, 898323000]
+inputs:
+  "/Users/admin/Documents/projects/cheetah_driver/ios/ImageNotification/NotificationService.swift": [1623193919, 768271452]

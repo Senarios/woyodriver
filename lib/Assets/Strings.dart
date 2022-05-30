@@ -1,0 +1,71 @@
+class Strings {
+  static const String HOME = 'Home';
+  static const String PROFILE = 'Profile';
+  static const String HISTORY = 'History';
+  static const String MESSAGES = 'Messages';
+  static const String LOGOUT = 'Logout';
+  static const String VISIT_PROFILE = 'Visit Profile';
+  static const String ABOUT = 'About';
+  static const String DISCONNECT = 'Se déconnecter';
+  static const String BOOK_YOUR_RIDE = 'BOOK YOUR RIDE';
+  static const String ENTER_SOURCE = 'Enter source';
+  static const String ENTER_DESTINATION = 'Enter destination';
+  static const String PAYMENT_MODE = 'Payment Mode';
+  static const String PAYMENT_MODE_CASH = 'Cash';
+  static const String PAYMENT_MODE_CREDIT = 'Credit Card';
+  static const String CONTINUE = 'Continue';
+  static const String FINDING_YOUR_RIDE = 'Finding your Ride';
+  static const String CANCEL = 'CANCEL';
+  static const String SEARCH = 'SEARCH';
+  static const String PAYMENT_VIA = 'Payment via';
+  static const String RIDE_FARE = 'Ride fare';
+  static const String RIDE_TYPE = 'Ride type';
+  static const String NUMBER_OF_PASSENGERS = 'Number of passengers';
+  static const String PRIVATE = 'Private';
+  static const String RIDE_INFO = 'Ride info';
+  static const String CALL_NOW = 'Call Now';
+  static const String MORE = 'More';
+  static const String LESS = 'Less';
+  static const String CURRENT_STATUS = 'Current Status';
+  static const String ARRIVING = 'Arriving';
+  static const String SUBMIT = 'SUBMIT';
+  static const String ADD_COMMENT = 'Add Comment (Optional)';
+  static const String RATE_YOUR_RIDE = 'Rate your ride';
+  static const String ACCEPT = 'Soumettre';
+  static const String REJECT = 'Refuser';
+  static const String CALL_DRIVER = 'Appeler le chauffeur ';
+  static const String MY_RIDES = 'My Rides ';
+  static const String SCHEDULE = 'Schedule Trips';
+
+  static const String LIST_OF_RIDES = 'List of rides booked by you';
+  static const String BOOKED_ON = 'Booked on';
+  static const String YESTERDAY = 'Yesterday';
+  static const String CHANGE_PICTURE = 'Change Picture';
+  static const String YOUR_ACCOUNT_DETAILS = 'Your account details';
+  static const String PHONE = 'Phone Number';
+  static const String FULL_NAME = 'Full Name';
+  static const String EMAIL = 'Email Address';
+  static const String CAR_INFO = 'Car Info';
+  static const String CAR_TYPE = 'Car Type';
+  static const String CAR_MODEL = 'Car Model';
+  static const String VEHICLE_NUM = 'Vehicle Number';
+  static const String LIST_OF_RIDES_COMPLETED =
+      'List of rides you\'ve completed';
+  static const String LIST_OF_SCHEDULE_RIDES = 'List of schedule rides';
+  static const String PAID_VIA = 'Paid via ';
+  static const String BEGIN_RIDE = 'BEGIN RIDE';
+  static const String ARRIVE = 'Arrivé';
+  static const String END_RIDE = 'END RIDE';
+  static const String YOUR_TRIP = 'YOUR TRIP';
+  static const String NAVIGATE = 'Navigate';
+  static const String PICKUP_DESTINATION = 'Pickup Destination';
+  static const String GO_TO_PICKUP = 'GO TO PICKUP';
+  static const String ARRIVED = 'ARRIVED';
+  static const String START_THE_TRIP = 'Start the trip';
+  static const String END_THE_TRIP = 'Finish the trip';
+  static const String COLLECT_PAYMENT = 'Collect Payment';
+  static const String ACCEPT_RIDE = 'ACCEPT RIDE';
+  static const String RIDE_REQUEST_RECEIVED = 'RIDE REQUEST RECEIVED';
+}
+
+enum PAYMENT_TYPES { CASH, CREDIT }
